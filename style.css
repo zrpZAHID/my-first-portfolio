@@ -55,11 +55,24 @@ h2 {
     width: 40%;
     margin-left: 5%;
     margin-right: 5%;
-    box-shadow: 10px 10px 20px black;
+    box-shadow: 10px 10px 20px gray;
+
 }
 
 .experience-area {
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+}
+
+#Full-stack-web-developer {
+    border-left: 7px solid tomato;
+}
+
+#baby-web-developer {
+    border-left: 7px solid blue;
+}
+
+footer p {
+    text-align: center;
 }
