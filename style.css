@@ -55,7 +55,6 @@ h2 {
     width: 40%;
     margin-left: 5%;
     margin-right: 5%;
-    box-shadow: 10px 10px 20px gray;
 
 }
 
@@ -67,10 +66,12 @@ h2 {
 
 #Full-stack-web-developer {
     border-left: 7px solid tomato;
+    box-shadow: 10px 10px 20px tomato;
 }
 
 #baby-web-developer {
     border-left: 7px solid blue;
+    box-shadow: 10px 10px 20px blue;
 }
 
 footer p {
